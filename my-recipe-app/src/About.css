@@ -1,0 +1,27 @@
+
+h1 {
+    color: #333;
+    font-size: 24px;
+    
+  }
+  
+  p {
+    font-size: 18px;
+    color: #666;
+    margin: 20px 0;
+    position: absolute; 
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px; 
+    z-index: 1; 
+    top: 95%; 
+    left: 40%; 
+    transform: translate(-50%, -50%); 
+  }
+  
+  
+  body {
+    background-image: url('https://media.istockphoto.com/id/905591512/photo/friends-wearing-asparagus-stalks-under-their-noses.jpg?s=612x612&w=0&k=20&c=eE79TB_GYQ10DQwaUiRmimxvNm3PEwrJ54KLoqVYUDI=');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
